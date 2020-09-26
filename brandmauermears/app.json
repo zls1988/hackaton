@@ -1,0 +1,5 @@
+{
+  "name": "Brandmauerbears",
+  "description": "A server for geodata mocking",
+  "image": "heroku/java"
+}
